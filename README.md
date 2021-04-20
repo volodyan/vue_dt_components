@@ -16,9 +16,9 @@ npm run build
 ```
 
 ### 预览页
-See [Configuration Reference](https://volodyan.github.io/vue_drag_resize_div_preview/#/ztdata/Home).
+See [Configuration Reference](https://volodyan.github.io/vue_dt_components_preview/#/ztdata/Home).
 ```
-https://volodyan.github.io/vue_drag_resize_div_preview/#/ztdata/Home
+https://volodyan.github.io/vue_dt_components_preview/#/ztdata/Home
 
 ```
 
