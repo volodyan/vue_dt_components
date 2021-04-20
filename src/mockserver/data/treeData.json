@@ -1,0 +1,2305 @@
+{
+    "Code": "0",
+    "Message": "OK",
+    "Response": [{
+            "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+            "TreeNodeCode": "KPI属性",
+            "TreeNodeParentGuid": "",
+            "TreeNodeName": "KPI属性",
+            "TreeNodeRank": 1,
+            "TreeNodeTypeCode": "",
+            "TreeNodeTypeName": "",
+            "Children": []
+        },
+        {
+            "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+            "TreeNodeCode": "SJSX",
+            "TreeNodeParentGuid": "",
+            "TreeNodeName": "数据属性",
+            "TreeNodeRank": 1,
+            "TreeNodeTypeCode": "",
+            "TreeNodeTypeName": "",
+            "Children": []
+        },
+        {
+            "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+            "TreeNodeCode": "JBSX",
+            "TreeNodeParentGuid": "",
+            "TreeNodeName": "基本属性",
+            "TreeNodeRank": 1,
+            "TreeNodeTypeCode": "",
+            "TreeNodeTypeName": "",
+            "Children": []
+        },
+        {
+            "TreeNodeGuid": "e7924ba1-512c-4a40-97ea-4d22eca8fb62",
+            "TreeNodeCode": "Add",
+            "TreeNodeParentGuid": "",
+            "TreeNodeName": "Add",
+            "TreeNodeRank": 1,
+            "TreeNodeTypeCode": "",
+            "TreeNodeTypeName": "",
+            "Children": []
+        },
+        {
+            "TreeNodeGuid": "842768BA-19A0-4342-BC0D-72F5D9AC40FE",
+            "TreeNodeCode": "SCXT",
+            "TreeNodeParentGuid": "",
+            "TreeNodeName": "水厂系统",
+            "TreeNodeRank": 1,
+            "TreeNodeTypeCode": "SCXT",
+            "TreeNodeTypeName": "水厂系统",
+            "Children": [{
+                    "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+                    "TreeNodeCode": "KPI属性",
+                    "TreeNodeParentGuid": "842768BA-19A0-4342-BC0D-72F5D9AC40FE",
+                    "TreeNodeName": "KPI属性",
+                    "TreeNodeRank": 1,
+                    "TreeNodeTypeCode": "",
+                    "TreeNodeTypeName": "",
+                    "Children": []
+                },
+                {
+                    "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+                    "TreeNodeCode": "SJSX",
+                    "TreeNodeParentGuid": "842768BA-19A0-4342-BC0D-72F5D9AC40FE",
+                    "TreeNodeName": "数据属性",
+                    "TreeNodeRank": 1,
+                    "TreeNodeTypeCode": "",
+                    "TreeNodeTypeName": "",
+                    "Children": []
+                },
+                {
+                    "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+                    "TreeNodeCode": "JBSX",
+                    "TreeNodeParentGuid": "842768BA-19A0-4342-BC0D-72F5D9AC40FE",
+                    "TreeNodeName": "基本属性",
+                    "TreeNodeRank": 1,
+                    "TreeNodeTypeCode": "",
+                    "TreeNodeTypeName": "",
+                    "Children": []
+                },
+                {
+                    "TreeNodeGuid": "622c142a-6c91-4bd8-8972-cff3da230089",
+                    "TreeNodeCode": "Add",
+                    "TreeNodeParentGuid": "842768BA-19A0-4342-BC0D-72F5D9AC40FE",
+                    "TreeNodeName": "Add",
+                    "TreeNodeRank": 1,
+                    "TreeNodeTypeCode": "",
+                    "TreeNodeTypeName": "",
+                    "Children": []
+                },
+                {
+                    "TreeNodeGuid": "1D938A93-97DE-4F16-B4CE-6D1381740CEB",
+                    "TreeNodeCode": "JCEC",
+                    "TreeNodeParentGuid": "842768BA-19A0-4342-BC0D-72F5D9AC40FE",
+                    "TreeNodeName": "江村二厂",
+                    "TreeNodeRank": 6,
+                    "TreeNodeTypeCode": "SCXT",
+                    "TreeNodeTypeName": "水厂系统",
+                    "Children": [{
+                            "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+                            "TreeNodeCode": "KPI属性",
+                            "TreeNodeParentGuid": "1D938A93-97DE-4F16-B4CE-6D1381740CEB",
+                            "TreeNodeName": "KPI属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+                            "TreeNodeCode": "SJSX",
+                            "TreeNodeParentGuid": "1D938A93-97DE-4F16-B4CE-6D1381740CEB",
+                            "TreeNodeName": "数据属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+                            "TreeNodeCode": "JBSX",
+                            "TreeNodeParentGuid": "1D938A93-97DE-4F16-B4CE-6D1381740CEB",
+                            "TreeNodeName": "基本属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "e7debc20-5b0d-46ae-868e-096a6e829ae1",
+                            "TreeNodeCode": "Add",
+                            "TreeNodeParentGuid": "1D938A93-97DE-4F16-B4CE-6D1381740CEB",
+                            "TreeNodeName": "Add",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "030754D4-345D-4A20-87D7-34580154B189",
+                            "TreeNodeCode": "PD",
+                            "TreeNodeParentGuid": "1D938A93-97DE-4F16-B4CE-6D1381740CEB",
+                            "TreeNodeName": "配电",
+                            "TreeNodeRank": 9,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "19764AA4-2D33-4E41-B840-CE3583323586",
+                            "TreeNodeCode": "HNJTJ",
+                            "TreeNodeParentGuid": "1D938A93-97DE-4F16-B4CE-6D1381740CEB",
+                            "TreeNodeName": "混凝剂投加",
+                            "TreeNodeRank": 8,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "1AB3F570-5EBF-4B7C-8699-F400FF201F4D",
+                            "TreeNodeCode": "XNCGQ",
+                            "TreeNodeParentGuid": "1D938A93-97DE-4F16-B4CE-6D1381740CEB",
+                            "TreeNodeName": "虚拟传感器",
+                            "TreeNodeRank": 9,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "4A4B892E-CD4A-48C9-8FBB-154687020459",
+                            "TreeNodeCode": "EJBF",
+                            "TreeNodeParentGuid": "1D938A93-97DE-4F16-B4CE-6D1381740CEB",
+                            "TreeNodeName": "二级泵房",
+                            "TreeNodeRank": 7,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "5008FCF5-DA9D-4EAB-8667-71B791EC6D0E",
+                            "TreeNodeCode": "XD",
+                            "TreeNodeParentGuid": "1D938A93-97DE-4F16-B4CE-6D1381740CEB",
+                            "TreeNodeName": "消毒",
+                            "TreeNodeRank": 5,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "6B07312A-3ED3-4F78-BB60-AD947D1D22DC",
+                            "TreeNodeCode": "GL",
+                            "TreeNodeParentGuid": "1D938A93-97DE-4F16-B4CE-6D1381740CEB",
+                            "TreeNodeName": "过滤",
+                            "TreeNodeRank": 4,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "79D33E8F-598E-4B16-8FEF-2042EAF2800F",
+                            "TreeNodeCode": "QS",
+                            "TreeNodeParentGuid": "1D938A93-97DE-4F16-B4CE-6D1381740CEB",
+                            "TreeNodeName": "取水",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "960AE3B3-BA31-41B0-B6D0-310C1D581CF5",
+                            "TreeNodeCode": "CD",
+                            "TreeNodeParentGuid": "1D938A93-97DE-4F16-B4CE-6D1381740CEB",
+                            "TreeNodeName": "沉淀",
+                            "TreeNodeRank": 3,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "CA2BDA59-D8CE-4D05-B032-1B8D8636CC7D",
+                            "TreeNodeCode": "HN",
+                            "TreeNodeParentGuid": "1D938A93-97DE-4F16-B4CE-6D1381740CEB",
+                            "TreeNodeName": "混凝",
+                            "TreeNodeRank": 2,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        }
+                    ]
+                },
+                {
+                    "TreeNodeGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                    "TreeNodeCode": "NZSC",
+                    "TreeNodeParentGuid": "842768BA-19A0-4342-BC0D-72F5D9AC40FE",
+                    "TreeNodeName": "南洲水厂",
+                    "TreeNodeRank": 3,
+                    "TreeNodeTypeCode": "SCXT",
+                    "TreeNodeTypeName": "水厂系统",
+                    "Children": [{
+                            "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+                            "TreeNodeCode": "KPI属性",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "KPI属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+                            "TreeNodeCode": "SJSX",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "数据属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+                            "TreeNodeCode": "JBSX",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "基本属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "9edeb90a-e006-4016-a82d-e5274295254c",
+                            "TreeNodeCode": "Add",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "Add",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "10135CD7-92CD-4C92-ACEB-C222283BBA7F",
+                            "TreeNodeCode": "XNCGQ",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "虚拟传感器",
+                            "TreeNodeRank": 18,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "301FEEC0-A879-4AB2-970E-180E115BF4DB",
+                            "TreeNodeCode": "SJTJBY",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "烧碱投加（备用）",
+                            "TreeNodeRank": 12,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "3D538794-E7E9-4062-8B72-16BA20AFFE9B",
+                            "TreeNodeCode": "TS",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "提升",
+                            "TreeNodeRank": 9,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "51965F2C-846D-4DB8-BBDB-6CD6B2DF50A6",
+                            "TreeNodeCode": "PD",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "送水",
+                            "TreeNodeRank": 15,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "86146FB7-F73C-4E31-A686-9547B5CCA4E9",
+                            "TreeNodeCode": "QSC",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "清水池",
+                            "TreeNodeRank": 14,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "934CE36F-14E3-470A-996C-29C6966A503F",
+                            "TreeNodeCode": "QCYTJ",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "前臭氧投加",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "947CB50B-0372-468F-B07D-DA54BC1D1523",
+                            "TreeNodeCode": "CD",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "沉淀",
+                            "TreeNodeRank": 7,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "A2C13C90-3A88-426B-9B78-901D70474078",
+                            "TreeNodeCode": "SJTJ",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "烧碱投加",
+                            "TreeNodeRank": 6,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "AD6A674E-6521-46CB-8179-4B931B2C78C2",
+                            "TreeNodeCode": "FTJ",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "矾投加",
+                            "TreeNodeRank": 4,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "B3411E48-3163-4F77-8F73-55CD73084F64",
+                            "TreeNodeCode": "PD",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "配电",
+                            "TreeNodeRank": 17,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "C405D2D0-4A10-4533-8F62-A147D37C0B3D",
+                            "TreeNodeCode": "SLC",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "砂滤池",
+                            "TreeNodeRank": 8,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "C9217B49-0668-42C3-BF8D-E941C027A40C",
+                            "TreeNodeCode": "PSJ",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "配水井",
+                            "TreeNodeRank": 3,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "CA97CE0A-D49F-460A-BAE7-7782D7C8C2EB",
+                            "TreeNodeCode": "JSDY",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "进水单元",
+                            "TreeNodeRank": 2,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "DEEDCCAE-CF45-4FAF-914E-13F2E626A68A",
+                            "TreeNodeCode": "ZCYJC",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "主臭氧接触",
+                            "TreeNodeRank": 10,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "DF95A4B9-6702-4D75-B2EF-4527EE1BE3D7",
+                            "TreeNodeCode": "SWHXTLC",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "生物活性炭滤池",
+                            "TreeNodeRank": 11,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "EECB32B1-C684-4253-B3E6-A0DDCBEDA4D5",
+                            "TreeNodeCode": "CLSNTJ",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "次氯酸钠投加",
+                            "TreeNodeRank": 13,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "FE327745-13B9-4047-9E66-979C755BA31A",
+                            "TreeNodeCode": "PNSXT",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "排泥水系统",
+                            "TreeNodeRank": 16,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "FEAA4B2C-DAF5-42DD-84F9-7E9B6D855A52",
+                            "TreeNodeCode": "HN",
+                            "TreeNodeParentGuid": "44F1AFCE-79B9-444B-BFCD-B29C337D71DE",
+                            "TreeNodeName": "混凝",
+                            "TreeNodeRank": 5,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        }
+                    ]
+                },
+                {
+                    "TreeNodeGuid": "52369D3D-12A5-427D-9E89-FD5D6B0932E8",
+                    "TreeNodeCode": "XTSC",
+                    "TreeNodeParentGuid": "842768BA-19A0-4342-BC0D-72F5D9AC40FE",
+                    "TreeNodeName": "新塘水厂",
+                    "TreeNodeRank": 2,
+                    "TreeNodeTypeCode": "SCXT",
+                    "TreeNodeTypeName": "水厂系统",
+                    "Children": [{
+                            "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+                            "TreeNodeCode": "KPI属性",
+                            "TreeNodeParentGuid": "52369D3D-12A5-427D-9E89-FD5D6B0932E8",
+                            "TreeNodeName": "KPI属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+                            "TreeNodeCode": "SJSX",
+                            "TreeNodeParentGuid": "52369D3D-12A5-427D-9E89-FD5D6B0932E8",
+                            "TreeNodeName": "数据属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+                            "TreeNodeCode": "JBSX",
+                            "TreeNodeParentGuid": "52369D3D-12A5-427D-9E89-FD5D6B0932E8",
+                            "TreeNodeName": "基本属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "73fd6d4e-3e8d-49f1-a1a6-c76a99525a27",
+                            "TreeNodeCode": "Add",
+                            "TreeNodeParentGuid": "52369D3D-12A5-427D-9E89-FD5D6B0932E8",
+                            "TreeNodeName": "Add",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "23262A23-800C-44CA-A085-1BFD07C5F25F",
+                            "TreeNodeCode": "XNCGQ",
+                            "TreeNodeParentGuid": "52369D3D-12A5-427D-9E89-FD5D6B0932E8",
+                            "TreeNodeName": "虚拟传感器",
+                            "TreeNodeRank": 8,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": [{
+                                    "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+                                    "TreeNodeCode": "KPI属性",
+                                    "TreeNodeParentGuid": "23262A23-800C-44CA-A085-1BFD07C5F25F",
+                                    "TreeNodeName": "KPI属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+                                    "TreeNodeCode": "SJSX",
+                                    "TreeNodeParentGuid": "23262A23-800C-44CA-A085-1BFD07C5F25F",
+                                    "TreeNodeName": "数据属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+                                    "TreeNodeCode": "JBSX",
+                                    "TreeNodeParentGuid": "23262A23-800C-44CA-A085-1BFD07C5F25F",
+                                    "TreeNodeName": "基本属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "74c344be-0e17-4848-a538-78a850bad216",
+                                    "TreeNodeCode": "Add",
+                                    "TreeNodeParentGuid": "23262A23-800C-44CA-A085-1BFD07C5F25F",
+                                    "TreeNodeName": "Add",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "10C18EDE-FE52-431B-BBD5-40C7CF43BBA4",
+                                    "TreeNodeCode": "XNCGQ",
+                                    "TreeNodeParentGuid": "23262A23-800C-44CA-A085-1BFD07C5F25F",
+                                    "TreeNodeName": "虚拟传感器",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                }
+                            ]
+                        },
+                        {
+                            "TreeNodeGuid": "469DB087-F93D-44F6-A880-BD17CA9FE50A",
+                            "TreeNodeCode": "SS",
+                            "TreeNodeParentGuid": "52369D3D-12A5-427D-9E89-FD5D6B0932E8",
+                            "TreeNodeName": "送水",
+                            "TreeNodeRank": 5,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": [{
+                                    "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+                                    "TreeNodeCode": "KPI属性",
+                                    "TreeNodeParentGuid": "469DB087-F93D-44F6-A880-BD17CA9FE50A",
+                                    "TreeNodeName": "KPI属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+                                    "TreeNodeCode": "SJSX",
+                                    "TreeNodeParentGuid": "469DB087-F93D-44F6-A880-BD17CA9FE50A",
+                                    "TreeNodeName": "数据属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+                                    "TreeNodeCode": "JBSX",
+                                    "TreeNodeParentGuid": "469DB087-F93D-44F6-A880-BD17CA9FE50A",
+                                    "TreeNodeName": "基本属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "2b8c7757-156c-4ab9-89f4-0c965857befa",
+                                    "TreeNodeCode": "Add",
+                                    "TreeNodeParentGuid": "469DB087-F93D-44F6-A880-BD17CA9FE50A",
+                                    "TreeNodeName": "Add",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "7FCD1279-93E3-4E2D-96AB-1B724E5712BB",
+                                    "TreeNodeCode": "SSGD",
+                                    "TreeNodeParentGuid": "469DB087-F93D-44F6-A880-BD17CA9FE50A",
+                                    "TreeNodeName": "送水管道",
+                                    "TreeNodeRank": 2,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "CE653D13-C0E5-434D-BCBF-DA3E00051FC6",
+                                    "TreeNodeCode": "SSBF",
+                                    "TreeNodeParentGuid": "469DB087-F93D-44F6-A880-BD17CA9FE50A",
+                                    "TreeNodeName": "送水泵房",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                }
+                            ]
+                        },
+                        {
+                            "TreeNodeGuid": "549BBA26-8E9B-4939-80DF-752E5AEFA8C0",
+                            "TreeNodeCode": "GL",
+                            "TreeNodeParentGuid": "52369D3D-12A5-427D-9E89-FD5D6B0932E8",
+                            "TreeNodeName": "过滤",
+                            "TreeNodeRank": 3,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": [{
+                                    "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+                                    "TreeNodeCode": "KPI属性",
+                                    "TreeNodeParentGuid": "549BBA26-8E9B-4939-80DF-752E5AEFA8C0",
+                                    "TreeNodeName": "KPI属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+                                    "TreeNodeCode": "SJSX",
+                                    "TreeNodeParentGuid": "549BBA26-8E9B-4939-80DF-752E5AEFA8C0",
+                                    "TreeNodeName": "数据属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+                                    "TreeNodeCode": "JBSX",
+                                    "TreeNodeParentGuid": "549BBA26-8E9B-4939-80DF-752E5AEFA8C0",
+                                    "TreeNodeName": "基本属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "cf630ca6-7c68-4c83-8a7d-1a9bd9246d57",
+                                    "TreeNodeCode": "Add",
+                                    "TreeNodeParentGuid": "549BBA26-8E9B-4939-80DF-752E5AEFA8C0",
+                                    "TreeNodeName": "Add",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "1008B0E4-5365-496E-A7A7-F141B5E1AEB4",
+                                    "TreeNodeCode": "XSJ",
+                                    "TreeNodeParentGuid": "549BBA26-8E9B-4939-80DF-752E5AEFA8C0",
+                                    "TreeNodeName": "吸水井",
+                                    "TreeNodeRank": 2,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "4CC594DB-DF4A-48F4-89CA-A6C27397778A",
+                                    "TreeNodeCode": "SLC",
+                                    "TreeNodeParentGuid": "549BBA26-8E9B-4939-80DF-752E5AEFA8C0",
+                                    "TreeNodeName": "砂滤池",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                }
+                            ]
+                        },
+                        {
+                            "TreeNodeGuid": "94ACE3C7-BBE6-48D3-87BE-38620702440B",
+                            "TreeNodeCode": "YCL",
+                            "TreeNodeParentGuid": "52369D3D-12A5-427D-9E89-FD5D6B0932E8",
+                            "TreeNodeName": "预处理",
+                            "TreeNodeRank": 2,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": [{
+                                    "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+                                    "TreeNodeCode": "KPI属性",
+                                    "TreeNodeParentGuid": "94ACE3C7-BBE6-48D3-87BE-38620702440B",
+                                    "TreeNodeName": "KPI属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+                                    "TreeNodeCode": "SJSX",
+                                    "TreeNodeParentGuid": "94ACE3C7-BBE6-48D3-87BE-38620702440B",
+                                    "TreeNodeName": "数据属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+                                    "TreeNodeCode": "JBSX",
+                                    "TreeNodeParentGuid": "94ACE3C7-BBE6-48D3-87BE-38620702440B",
+                                    "TreeNodeName": "基本属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "305286ad-0df4-4bbf-ac6f-ba1d5c57dd12",
+                                    "TreeNodeCode": "Add",
+                                    "TreeNodeParentGuid": "94ACE3C7-BBE6-48D3-87BE-38620702440B",
+                                    "TreeNodeName": "Add",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "573119E2-D1B5-4E3D-B41E-A827CE0A2184",
+                                    "TreeNodeCode": "SWYCL",
+                                    "TreeNodeParentGuid": "94ACE3C7-BBE6-48D3-87BE-38620702440B",
+                                    "TreeNodeName": "生物预处理",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": [{
+                                            "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+                                            "TreeNodeCode": "KPI属性",
+                                            "TreeNodeParentGuid": "573119E2-D1B5-4E3D-B41E-A827CE0A2184",
+                                            "TreeNodeName": "KPI属性",
+                                            "TreeNodeRank": 1,
+                                            "TreeNodeTypeCode": "",
+                                            "TreeNodeTypeName": "",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+                                            "TreeNodeCode": "SJSX",
+                                            "TreeNodeParentGuid": "573119E2-D1B5-4E3D-B41E-A827CE0A2184",
+                                            "TreeNodeName": "数据属性",
+                                            "TreeNodeRank": 1,
+                                            "TreeNodeTypeCode": "",
+                                            "TreeNodeTypeName": "",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+                                            "TreeNodeCode": "JBSX",
+                                            "TreeNodeParentGuid": "573119E2-D1B5-4E3D-B41E-A827CE0A2184",
+                                            "TreeNodeName": "基本属性",
+                                            "TreeNodeRank": 1,
+                                            "TreeNodeTypeCode": "",
+                                            "TreeNodeTypeName": "",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "9c0667aa-7714-414a-97a2-15bf912ed956",
+                                            "TreeNodeCode": "Add",
+                                            "TreeNodeParentGuid": "573119E2-D1B5-4E3D-B41E-A827CE0A2184",
+                                            "TreeNodeName": "Add",
+                                            "TreeNodeRank": 1,
+                                            "TreeNodeTypeCode": "",
+                                            "TreeNodeTypeName": "",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "2B1DCC0C-D8D4-49D1-ACED-1ABFD9F57733",
+                                            "TreeNodeCode": "11YWJ",
+                                            "TreeNodeParentGuid": "573119E2-D1B5-4E3D-B41E-A827CE0A2184",
+                                            "TreeNodeName": "11#液位计",
+                                            "TreeNodeRank": 2,
+                                            "TreeNodeTypeCode": "SCXT",
+                                            "TreeNodeTypeName": "水厂系统",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "583AB06C-3410-4DF0-A2F0-96DAB0862AA8",
+                                            "TreeNodeCode": "3YWJ",
+                                            "TreeNodeParentGuid": "573119E2-D1B5-4E3D-B41E-A827CE0A2184",
+                                            "TreeNodeName": "3#液位计",
+                                            "TreeNodeRank": 1,
+                                            "TreeNodeTypeCode": "SCXT",
+                                            "TreeNodeTypeName": "水厂系统",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "FDEC20CC-B73E-44AF-A5DA-4BED86A72F53",
+                                            "TreeNodeCode": "QRJY",
+                                            "TreeNodeParentGuid": "573119E2-D1B5-4E3D-B41E-A827CE0A2184",
+                                            "TreeNodeName": "前溶解氧",
+                                            "TreeNodeRank": 3,
+                                            "TreeNodeTypeCode": "SCXT",
+                                            "TreeNodeTypeName": "水厂系统",
+                                            "Children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "TreeNodeGuid": "77AA6FCA-4340-4F91-9519-C0D880004DAF",
+                                    "TreeNodeCode": "FCXBF",
+                                    "TreeNodeParentGuid": "94ACE3C7-BBE6-48D3-87BE-38620702440B",
+                                    "TreeNodeName": "反冲洗泵房",
+                                    "TreeNodeRank": 2,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": [{
+                                            "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+                                            "TreeNodeCode": "KPI属性",
+                                            "TreeNodeParentGuid": "77AA6FCA-4340-4F91-9519-C0D880004DAF",
+                                            "TreeNodeName": "KPI属性",
+                                            "TreeNodeRank": 1,
+                                            "TreeNodeTypeCode": "",
+                                            "TreeNodeTypeName": "",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+                                            "TreeNodeCode": "SJSX",
+                                            "TreeNodeParentGuid": "77AA6FCA-4340-4F91-9519-C0D880004DAF",
+                                            "TreeNodeName": "数据属性",
+                                            "TreeNodeRank": 1,
+                                            "TreeNodeTypeCode": "",
+                                            "TreeNodeTypeName": "",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+                                            "TreeNodeCode": "JBSX",
+                                            "TreeNodeParentGuid": "77AA6FCA-4340-4F91-9519-C0D880004DAF",
+                                            "TreeNodeName": "基本属性",
+                                            "TreeNodeRank": 1,
+                                            "TreeNodeTypeCode": "",
+                                            "TreeNodeTypeName": "",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "d1909310-f22e-413e-b4e6-c869fdc72023",
+                                            "TreeNodeCode": "Add",
+                                            "TreeNodeParentGuid": "77AA6FCA-4340-4F91-9519-C0D880004DAF",
+                                            "TreeNodeName": "Add",
+                                            "TreeNodeRank": 1,
+                                            "TreeNodeTypeCode": "",
+                                            "TreeNodeTypeName": "",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "21CAB370-E3D5-4206-9198-CD7FC4917AF5",
+                                            "TreeNodeCode": "A1",
+                                            "TreeNodeParentGuid": "77AA6FCA-4340-4F91-9519-C0D880004DAF",
+                                            "TreeNodeName": "生物1#反冲洗水泵",
+                                            "TreeNodeRank": 1,
+                                            "TreeNodeTypeCode": "SCXT",
+                                            "TreeNodeTypeName": "水厂系统",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "49407FEA-9689-4197-B345-EDE2D6FB0F89",
+                                            "TreeNodeCode": "A3",
+                                            "TreeNodeParentGuid": "77AA6FCA-4340-4F91-9519-C0D880004DAF",
+                                            "TreeNodeName": "生物3#反冲洗水泵",
+                                            "TreeNodeRank": 3,
+                                            "TreeNodeTypeCode": "SCXT",
+                                            "TreeNodeTypeName": "水厂系统",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "65D75924-ED41-4A3E-9864-D7CD0ED8F3D1",
+                                            "TreeNodeCode": "A7",
+                                            "TreeNodeParentGuid": "77AA6FCA-4340-4F91-9519-C0D880004DAF",
+                                            "TreeNodeName": "生物反冲洗水管总管压力表",
+                                            "TreeNodeRank": 7,
+                                            "TreeNodeTypeCode": "SCXT",
+                                            "TreeNodeTypeName": "水厂系统",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "6988D67E-8CB1-44EF-BAC4-F1B5A6FA1AC9",
+                                            "TreeNodeCode": "B4",
+                                            "TreeNodeParentGuid": "77AA6FCA-4340-4F91-9519-C0D880004DAF",
+                                            "TreeNodeName": "一期待滤水PH计",
+                                            "TreeNodeRank": 4,
+                                            "TreeNodeTypeCode": "SCXT",
+                                            "TreeNodeTypeName": "水厂系统",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "6F21492D-36C8-412F-AF3F-259026D6E6B0",
+                                            "TreeNodeCode": "B3",
+                                            "TreeNodeParentGuid": "77AA6FCA-4340-4F91-9519-C0D880004DAF",
+                                            "TreeNodeName": "一期待滤水余氯仪",
+                                            "TreeNodeRank": 3,
+                                            "TreeNodeTypeCode": "SCXT",
+                                            "TreeNodeTypeName": "水厂系统",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "72CF2C6A-ADD6-4619-BE70-19DFE72AB657",
+                                            "TreeNodeCode": "A6",
+                                            "TreeNodeParentGuid": "77AA6FCA-4340-4F91-9519-C0D880004DAF",
+                                            "TreeNodeName": "生物反冲洗总气管压力表",
+                                            "TreeNodeRank": 6,
+                                            "TreeNodeTypeCode": "SCXT",
+                                            "TreeNodeTypeName": "水厂系统",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "752123FD-6B73-4242-90FC-0866734B5BA4",
+                                            "TreeNodeCode": "B2",
+                                            "TreeNodeParentGuid": "77AA6FCA-4340-4F91-9519-C0D880004DAF",
+                                            "TreeNodeName": "一期待滤水浊度仪",
+                                            "TreeNodeRank": 2,
+                                            "TreeNodeTypeCode": "SCXT",
+                                            "TreeNodeTypeName": "水厂系统",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "8722164B-268B-4DEC-A9BA-2A86A3A376AE",
+                                            "TreeNodeCode": "B1",
+                                            "TreeNodeParentGuid": "77AA6FCA-4340-4F91-9519-C0D880004DAF",
+                                            "TreeNodeName": "V池混合水余氯仪",
+                                            "TreeNodeRank": 1,
+                                            "TreeNodeTypeCode": "SCXT",
+                                            "TreeNodeTypeName": "水厂系统",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "8DD039FC-E3DB-4A36-B5FA-019859C01AAC",
+                                            "TreeNodeCode": "A5",
+                                            "TreeNodeParentGuid": "77AA6FCA-4340-4F91-9519-C0D880004DAF",
+                                            "TreeNodeName": "生物反冲洗气体总管流量计",
+                                            "TreeNodeRank": 5,
+                                            "TreeNodeTypeCode": "SCXT",
+                                            "TreeNodeTypeName": "水厂系统",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "8DDEB4ED-8092-4F88-8A2B-819342443A4E",
+                                            "TreeNodeCode": "B7",
+                                            "TreeNodeParentGuid": "77AA6FCA-4340-4F91-9519-C0D880004DAF",
+                                            "TreeNodeName": "二期待滤水PH计",
+                                            "TreeNodeRank": 7,
+                                            "TreeNodeTypeCode": "SCXT",
+                                            "TreeNodeTypeName": "水厂系统",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "A020555C-797E-4454-92AC-6612F96AD465",
+                                            "TreeNodeCode": "B6",
+                                            "TreeNodeParentGuid": "77AA6FCA-4340-4F91-9519-C0D880004DAF",
+                                            "TreeNodeName": "二期待滤水余氯仪",
+                                            "TreeNodeRank": 6,
+                                            "TreeNodeTypeCode": "SCXT",
+                                            "TreeNodeTypeName": "水厂系统",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "DEAB6C51-78C6-44C4-BECC-002A3DA8A8DA",
+                                            "TreeNodeCode": "A2",
+                                            "TreeNodeParentGuid": "77AA6FCA-4340-4F91-9519-C0D880004DAF",
+                                            "TreeNodeName": "生物2#反冲洗水泵",
+                                            "TreeNodeRank": 2,
+                                            "TreeNodeTypeCode": "SCXT",
+                                            "TreeNodeTypeName": "水厂系统",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "E1A31172-8BCC-470A-B178-4BF550647A56",
+                                            "TreeNodeCode": "B5",
+                                            "TreeNodeParentGuid": "77AA6FCA-4340-4F91-9519-C0D880004DAF",
+                                            "TreeNodeName": "二期待滤水浊度仪",
+                                            "TreeNodeRank": 5,
+                                            "TreeNodeTypeCode": "SCXT",
+                                            "TreeNodeTypeName": "水厂系统",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "F98C0377-624E-4470-A8AA-429250D07497",
+                                            "TreeNodeCode": "A4",
+                                            "TreeNodeParentGuid": "77AA6FCA-4340-4F91-9519-C0D880004DAF",
+                                            "TreeNodeName": "生物反冲洗气体总管流量计",
+                                            "TreeNodeRank": 4,
+                                            "TreeNodeTypeCode": "SCXT",
+                                            "TreeNodeTypeName": "水厂系统",
+                                            "Children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "TreeNodeGuid": "C34417A2-9E37-49BC-BF28-E2B873A63B09",
+                                    "TreeNodeCode": "XNC",
+                                    "TreeNodeParentGuid": "94ACE3C7-BBE6-48D3-87BE-38620702440B",
+                                    "TreeNodeName": "絮凝池",
+                                    "TreeNodeRank": 3,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                }
+                            ]
+                        },
+                        {
+                            "TreeNodeGuid": "B15553D7-4EBE-450A-AFFA-E9C8B4586151",
+                            "TreeNodeCode": "JSDY",
+                            "TreeNodeParentGuid": "52369D3D-12A5-427D-9E89-FD5D6B0932E8",
+                            "TreeNodeName": "进水单元",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": [{
+                                    "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+                                    "TreeNodeCode": "KPI属性",
+                                    "TreeNodeParentGuid": "B15553D7-4EBE-450A-AFFA-E9C8B4586151",
+                                    "TreeNodeName": "KPI属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+                                    "TreeNodeCode": "SJSX",
+                                    "TreeNodeParentGuid": "B15553D7-4EBE-450A-AFFA-E9C8B4586151",
+                                    "TreeNodeName": "数据属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+                                    "TreeNodeCode": "JBSX",
+                                    "TreeNodeParentGuid": "B15553D7-4EBE-450A-AFFA-E9C8B4586151",
+                                    "TreeNodeName": "基本属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "29c03f06-7295-4458-8319-9fd1eb782ffa",
+                                    "TreeNodeCode": "Add",
+                                    "TreeNodeParentGuid": "B15553D7-4EBE-450A-AFFA-E9C8B4586151",
+                                    "TreeNodeName": "Add",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "0D939398-1896-4C03-B5CA-270E3D12E14D",
+                                    "TreeNodeCode": "JSGD",
+                                    "TreeNodeParentGuid": "B15553D7-4EBE-450A-AFFA-E9C8B4586151",
+                                    "TreeNodeName": "进水管道",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": [{
+                                            "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+                                            "TreeNodeCode": "KPI属性",
+                                            "TreeNodeParentGuid": "0D939398-1896-4C03-B5CA-270E3D12E14D",
+                                            "TreeNodeName": "KPI属性",
+                                            "TreeNodeRank": 1,
+                                            "TreeNodeTypeCode": "",
+                                            "TreeNodeTypeName": "",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+                                            "TreeNodeCode": "SJSX",
+                                            "TreeNodeParentGuid": "0D939398-1896-4C03-B5CA-270E3D12E14D",
+                                            "TreeNodeName": "数据属性",
+                                            "TreeNodeRank": 1,
+                                            "TreeNodeTypeCode": "",
+                                            "TreeNodeTypeName": "",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+                                            "TreeNodeCode": "JBSX",
+                                            "TreeNodeParentGuid": "0D939398-1896-4C03-B5CA-270E3D12E14D",
+                                            "TreeNodeName": "基本属性",
+                                            "TreeNodeRank": 1,
+                                            "TreeNodeTypeCode": "",
+                                            "TreeNodeTypeName": "",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "6ceb430d-ffac-4b13-a13a-f4f6e7588238",
+                                            "TreeNodeCode": "Add",
+                                            "TreeNodeParentGuid": "0D939398-1896-4C03-B5CA-270E3D12E14D",
+                                            "TreeNodeName": "Add",
+                                            "TreeNodeRank": 1,
+                                            "TreeNodeTypeCode": "",
+                                            "TreeNodeTypeName": "",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "03CAB025-7779-44D4-BC32-7D4C175D5954",
+                                            "TreeNodeCode": "JSLLJ",
+                                            "TreeNodeParentGuid": "0D939398-1896-4C03-B5CA-270E3D12E14D",
+                                            "TreeNodeName": "进水流量计",
+                                            "TreeNodeRank": 1,
+                                            "TreeNodeTypeCode": "SCXT",
+                                            "TreeNodeTypeName": "水厂系统",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "431A3CE2-A6C5-40AE-8C55-DDB75CBB762B",
+                                            "TreeNodeCode": "JSLLJ",
+                                            "TreeNodeParentGuid": "0D939398-1896-4C03-B5CA-270E3D12E14D",
+                                            "TreeNodeName": "进水流量计",
+                                            "TreeNodeRank": 1,
+                                            "TreeNodeTypeCode": "SCXT",
+                                            "TreeNodeTypeName": "水厂系统",
+                                            "Children": []
+                                        },
+                                        {
+                                            "TreeNodeGuid": "D098E61C-5CDF-46A8-A0D2-9A30B074E535",
+                                            "TreeNodeCode": "JSLJ",
+                                            "TreeNodeParentGuid": "0D939398-1896-4C03-B5CA-270E3D12E14D",
+                                            "TreeNodeName": "进水累计",
+                                            "TreeNodeRank": 2,
+                                            "TreeNodeTypeCode": "SCXT",
+                                            "TreeNodeTypeName": "水厂系统",
+                                            "Children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "TreeNodeGuid": "D4E0424F-79C7-46F6-9A9A-56FEE1565B20",
+                            "TreeNodeCode": "XD",
+                            "TreeNodeParentGuid": "52369D3D-12A5-427D-9E89-FD5D6B0932E8",
+                            "TreeNodeName": "消毒",
+                            "TreeNodeRank": 4,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": [{
+                                    "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+                                    "TreeNodeCode": "KPI属性",
+                                    "TreeNodeParentGuid": "D4E0424F-79C7-46F6-9A9A-56FEE1565B20",
+                                    "TreeNodeName": "KPI属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+                                    "TreeNodeCode": "SJSX",
+                                    "TreeNodeParentGuid": "D4E0424F-79C7-46F6-9A9A-56FEE1565B20",
+                                    "TreeNodeName": "数据属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+                                    "TreeNodeCode": "JBSX",
+                                    "TreeNodeParentGuid": "D4E0424F-79C7-46F6-9A9A-56FEE1565B20",
+                                    "TreeNodeName": "基本属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "d9925122-6710-41c4-b701-c75fcc5b7f62",
+                                    "TreeNodeCode": "Add",
+                                    "TreeNodeParentGuid": "D4E0424F-79C7-46F6-9A9A-56FEE1565B20",
+                                    "TreeNodeName": "Add",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "D5FA8AEE-F83B-4D15-A1B4-311FC4D2B548",
+                                    "TreeNodeCode": "QSC",
+                                    "TreeNodeParentGuid": "D4E0424F-79C7-46F6-9A9A-56FEE1565B20",
+                                    "TreeNodeName": "清水池",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                }
+                            ]
+                        },
+                        {
+                            "TreeNodeGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                            "TreeNodeCode": "HN",
+                            "TreeNodeParentGuid": "52369D3D-12A5-427D-9E89-FD5D6B0932E8",
+                            "TreeNodeName": "混凝",
+                            "TreeNodeRank": 6,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": [{
+                                    "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+                                    "TreeNodeCode": "KPI属性",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "KPI属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+                                    "TreeNodeCode": "SJSX",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "数据属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+                                    "TreeNodeCode": "JBSX",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "基本属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "02bdb410-b646-4be7-be73-755bbba244eb",
+                                    "TreeNodeCode": "Add",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "Add",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "0269D716-A1BE-4AF4-AE03-69D9F9F26BC1",
+                                    "TreeNodeCode": "B9",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "新系统待滤水余氯仪",
+                                    "TreeNodeRank": 9,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "0BA1C627-354C-4784-B6F5-705C66915852",
+                                    "TreeNodeCode": "QTCLSN",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "前投次氯酸钠",
+                                    "TreeNodeRank": 11,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "0E2162F5-4002-4C27-9DD3-D5ED140883FA",
+                                    "TreeNodeCode": "B10",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "新系统待滤水PH计",
+                                    "TreeNodeRank": 10,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "2831B2EA-9B0B-4A30-A343-900F9E7A7535",
+                                    "TreeNodeCode": "B8",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "新系统待滤水浊度仪",
+                                    "TreeNodeRank": 8,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "3C439F16-E264-4452-98CF-080D19452E58",
+                                    "TreeNodeCode": "CLG",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "储料罐",
+                                    "TreeNodeRank": 9,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "6CE689E0-EA6F-4F14-9DB9-5E52F36F56A2",
+                                    "TreeNodeCode": "TJC",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "调节池",
+                                    "TreeNodeRank": 2,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "76F9F902-93D3-41D8-8477-0D09B37EB38C",
+                                    "TreeNodeCode": "SJTJ",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "烧碱投加",
+                                    "TreeNodeRank": 8,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "8C6B6585-8F6B-4760-AB9E-D585A256BF19",
+                                    "TreeNodeCode": "B12",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "一期混合水PH计",
+                                    "TreeNodeRank": 12,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "98846438-49D7-488D-8B41-0ACBEBA0480B",
+                                    "TreeNodeCode": "B11",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "一期待滤水游离氯仪",
+                                    "TreeNodeRank": 11,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "9E165FFF-FE2D-417B-924B-3ABB15653AC3",
+                                    "TreeNodeCode": "FTJ",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "矾投加",
+                                    "TreeNodeRank": 12,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "A18E6924-011B-49E1-9A3D-C3674F18CC4A",
+                                    "TreeNodeCode": "B14",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "新系统混合水PH计",
+                                    "TreeNodeRank": 14,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "A5190915-2842-446D-834E-6B1F31A09CB1",
+                                    "TreeNodeCode": "CNG",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "次钠罐",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "AC9CCEBA-E988-4A14-BA1F-5821C3AF0B54",
+                                    "TreeNodeCode": "FYG",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "矾液罐",
+                                    "TreeNodeRank": 7,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "B95C7829-A960-49F2-A814-F0DD61B59569",
+                                    "TreeNodeCode": "NSC",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "浓缩池",
+                                    "TreeNodeRank": 4,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "CBF08265-1964-4631-BF3A-A1EA769BDAAA",
+                                    "TreeNodeCode": "WNCL",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "污泥处理",
+                                    "TreeNodeRank": 6,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "D3DED2B3-6573-4214-B35C-6B875288654A",
+                                    "TreeNodeCode": "B13",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "二期混合水PH计",
+                                    "TreeNodeRank": 13,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "E1CB208A-D692-4A01-972F-66FA1ADC1353",
+                                    "TreeNodeCode": "PNC",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "排泥池",
+                                    "TreeNodeRank": 5,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "E6678B71-820F-4794-BD92-13E731C92B06",
+                                    "TreeNodeCode": "CNC",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "储泥池",
+                                    "TreeNodeRank": 3,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "FF1B8537-E5F7-4B20-8B5C-1A8BC86DFC19",
+                                    "TreeNodeCode": "HTCLSN",
+                                    "TreeNodeParentGuid": "F3486FA0-DF2B-4896-BCBA-04D45FCADC35",
+                                    "TreeNodeName": "后投次氯酸钠",
+                                    "TreeNodeRank": 10,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                }
+                            ]
+                        },
+                        {
+                            "TreeNodeGuid": "F69CFF21-A63F-4D63-9AEA-963E0AF25253",
+                            "TreeNodeCode": "PD",
+                            "TreeNodeParentGuid": "52369D3D-12A5-427D-9E89-FD5D6B0932E8",
+                            "TreeNodeName": "配电",
+                            "TreeNodeRank": 7,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": [{
+                                    "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+                                    "TreeNodeCode": "KPI属性",
+                                    "TreeNodeParentGuid": "F69CFF21-A63F-4D63-9AEA-963E0AF25253",
+                                    "TreeNodeName": "KPI属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+                                    "TreeNodeCode": "SJSX",
+                                    "TreeNodeParentGuid": "F69CFF21-A63F-4D63-9AEA-963E0AF25253",
+                                    "TreeNodeName": "数据属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+                                    "TreeNodeCode": "JBSX",
+                                    "TreeNodeParentGuid": "F69CFF21-A63F-4D63-9AEA-963E0AF25253",
+                                    "TreeNodeName": "基本属性",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "7312bae5-e0bd-4fea-aee5-92bded081fe6",
+                                    "TreeNodeCode": "Add",
+                                    "TreeNodeParentGuid": "F69CFF21-A63F-4D63-9AEA-963E0AF25253",
+                                    "TreeNodeName": "Add",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "",
+                                    "TreeNodeTypeName": "",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "39B814E6-0FC1-49CB-AE76-CA0A8D4CDB8A",
+                                    "TreeNodeCode": "GYPDJ6",
+                                    "TreeNodeParentGuid": "F69CFF21-A63F-4D63-9AEA-963E0AF25253",
+                                    "TreeNodeName": "高压配电间6kv",
+                                    "TreeNodeRank": 1,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "68246F4A-1118-4A91-A7C9-AA955AC699E7",
+                                    "TreeNodeCode": "GYPDJ110",
+                                    "TreeNodeParentGuid": "F69CFF21-A63F-4D63-9AEA-963E0AF25253",
+                                    "TreeNodeName": "高压配电间110kv",
+                                    "TreeNodeRank": 3,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                },
+                                {
+                                    "TreeNodeGuid": "E4DBC424-1913-4520-B157-89B379772A84",
+                                    "TreeNodeCode": "GYPDJ10",
+                                    "TreeNodeParentGuid": "F69CFF21-A63F-4D63-9AEA-963E0AF25253",
+                                    "TreeNodeName": "高压配电间10kv",
+                                    "TreeNodeRank": 2,
+                                    "TreeNodeTypeCode": "SCXT",
+                                    "TreeNodeTypeName": "水厂系统",
+                                    "Children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "TreeNodeGuid": "7CDD685D-A417-4C75-A982-7BF81166DF4A",
+                    "TreeNodeCode": "JCYC",
+                    "TreeNodeParentGuid": "842768BA-19A0-4342-BC0D-72F5D9AC40FE",
+                    "TreeNodeName": "江村一厂",
+                    "TreeNodeRank": 5,
+                    "TreeNodeTypeCode": "SCXT",
+                    "TreeNodeTypeName": "水厂系统",
+                    "Children": [{
+                            "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+                            "TreeNodeCode": "KPI属性",
+                            "TreeNodeParentGuid": "7CDD685D-A417-4C75-A982-7BF81166DF4A",
+                            "TreeNodeName": "KPI属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+                            "TreeNodeCode": "SJSX",
+                            "TreeNodeParentGuid": "7CDD685D-A417-4C75-A982-7BF81166DF4A",
+                            "TreeNodeName": "数据属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+                            "TreeNodeCode": "JBSX",
+                            "TreeNodeParentGuid": "7CDD685D-A417-4C75-A982-7BF81166DF4A",
+                            "TreeNodeName": "基本属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "4f422884-8418-4153-9132-13f860b05945",
+                            "TreeNodeCode": "Add",
+                            "TreeNodeParentGuid": "7CDD685D-A417-4C75-A982-7BF81166DF4A",
+                            "TreeNodeName": "Add",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "0B177E37-1031-4DD1-98CA-E60CCB50C2E2",
+                            "TreeNodeCode": "HNJTJ",
+                            "TreeNodeParentGuid": "7CDD685D-A417-4C75-A982-7BF81166DF4A",
+                            "TreeNodeName": "混凝剂投加",
+                            "TreeNodeRank": 8,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "133B3485-0F68-45F6-85A2-C7662A23DCA6",
+                            "TreeNodeCode": "XD",
+                            "TreeNodeParentGuid": "7CDD685D-A417-4C75-A982-7BF81166DF4A",
+                            "TreeNodeName": "消毒",
+                            "TreeNodeRank": 6,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "31A46403-88AE-4C18-BE51-4CA0FA8B9023",
+                            "TreeNodeCode": "EJBF",
+                            "TreeNodeParentGuid": "7CDD685D-A417-4C75-A982-7BF81166DF4A",
+                            "TreeNodeName": "二级泵房",
+                            "TreeNodeRank": 7,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "6234ECAE-D039-4EFB-93AA-69219DE99363",
+                            "TreeNodeCode": "XNCGQ",
+                            "TreeNodeParentGuid": "7CDD685D-A417-4C75-A982-7BF81166DF4A",
+                            "TreeNodeName": "虚拟传感器",
+                            "TreeNodeRank": 9,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "80B65448-7931-49B9-8091-B57434D4EF50",
+                            "TreeNodeCode": "PS",
+                            "TreeNodeParentGuid": "7CDD685D-A417-4C75-A982-7BF81166DF4A",
+                            "TreeNodeName": "配水",
+                            "TreeNodeRank": 5,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "8E5B38E5-102A-4E29-AF07-A4C3BCEE6451",
+                            "TreeNodeCode": "PD",
+                            "TreeNodeParentGuid": "7CDD685D-A417-4C75-A982-7BF81166DF4A",
+                            "TreeNodeName": "配电",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "9B728B7B-6EFC-430B-8715-4350807AF594",
+                            "TreeNodeCode": "CD",
+                            "TreeNodeParentGuid": "7CDD685D-A417-4C75-A982-7BF81166DF4A",
+                            "TreeNodeName": "沉淀",
+                            "TreeNodeRank": 3,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "D5900515-2E7E-42FD-9FD7-4A57CB351EDB",
+                            "TreeNodeCode": "HN",
+                            "TreeNodeParentGuid": "7CDD685D-A417-4C75-A982-7BF81166DF4A",
+                            "TreeNodeName": "混凝",
+                            "TreeNodeRank": 2,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "E6858EB7-0156-451F-974A-8BE7CD94AFE4",
+                            "TreeNodeCode": "GL",
+                            "TreeNodeParentGuid": "7CDD685D-A417-4C75-A982-7BF81166DF4A",
+                            "TreeNodeName": "过滤",
+                            "TreeNodeRank": 4,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        }
+                    ]
+                },
+                {
+                    "TreeNodeGuid": "9057872B-A339-4D4C-9515-71838B7C0AE4",
+                    "TreeNodeCode": "XZSC",
+                    "TreeNodeParentGuid": "842768BA-19A0-4342-BC0D-72F5D9AC40FE",
+                    "TreeNodeName": "西洲水厂",
+                    "TreeNodeRank": 7,
+                    "TreeNodeTypeCode": "SCXT",
+                    "TreeNodeTypeName": "水厂系统",
+                    "Children": [{
+                            "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+                            "TreeNodeCode": "KPI属性",
+                            "TreeNodeParentGuid": "9057872B-A339-4D4C-9515-71838B7C0AE4",
+                            "TreeNodeName": "KPI属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+                            "TreeNodeCode": "SJSX",
+                            "TreeNodeParentGuid": "9057872B-A339-4D4C-9515-71838B7C0AE4",
+                            "TreeNodeName": "数据属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+                            "TreeNodeCode": "JBSX",
+                            "TreeNodeParentGuid": "9057872B-A339-4D4C-9515-71838B7C0AE4",
+                            "TreeNodeName": "基本属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "00133b7f-486b-411d-a305-b6c4fefb1566",
+                            "TreeNodeCode": "Add",
+                            "TreeNodeParentGuid": "9057872B-A339-4D4C-9515-71838B7C0AE4",
+                            "TreeNodeName": "Add",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "35B0EA94-C4A3-454F-A799-82912076A648",
+                            "TreeNodeCode": "XNCGQ",
+                            "TreeNodeParentGuid": "9057872B-A339-4D4C-9515-71838B7C0AE4",
+                            "TreeNodeName": "虚拟传感器",
+                            "TreeNodeRank": 10,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "3C725FAC-372C-428E-86B3-5A4B7A21E59D",
+                            "TreeNodeCode": "NS",
+                            "TreeNodeParentGuid": "9057872B-A339-4D4C-9515-71838B7C0AE4",
+                            "TreeNodeName": "浓缩",
+                            "TreeNodeRank": 7,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "7AD1ABFD-0300-4A3F-878E-F7C2F4BE0589",
+                            "TreeNodeCode": "EJBF",
+                            "TreeNodeParentGuid": "9057872B-A339-4D4C-9515-71838B7C0AE4",
+                            "TreeNodeName": "二级泵房",
+                            "TreeNodeRank": 2,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "7CAE6819-ACE2-483D-9E59-57EF1A0EC0FB",
+                            "TreeNodeCode": "GL",
+                            "TreeNodeParentGuid": "9057872B-A339-4D4C-9515-71838B7C0AE4",
+                            "TreeNodeName": "过滤",
+                            "TreeNodeRank": 11,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "880BE6DB-B420-4F2E-85D3-E9A33F294758",
+                            "TreeNodeCode": "CD",
+                            "TreeNodeParentGuid": "9057872B-A339-4D4C-9515-71838B7C0AE4",
+                            "TreeNodeName": "沉淀",
+                            "TreeNodeRank": 8,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "A47BFE0B-80EB-4F68-8B88-9697977BDF56",
+                            "TreeNodeCode": "XD",
+                            "TreeNodeParentGuid": "9057872B-A339-4D4C-9515-71838B7C0AE4",
+                            "TreeNodeName": "消毒",
+                            "TreeNodeRank": 3,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "A575A803-3AC0-46B0-9331-4FEEA4BD042C",
+                            "TreeNodeCode": "PD",
+                            "TreeNodeParentGuid": "9057872B-A339-4D4C-9515-71838B7C0AE4",
+                            "TreeNodeName": "配电",
+                            "TreeNodeRank": 4,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "B61574B8-274F-46E8-82C9-9BEC6EB0A103",
+                            "TreeNodeCode": "TS",
+                            "TreeNodeParentGuid": "9057872B-A339-4D4C-9515-71838B7C0AE4",
+                            "TreeNodeName": "脱水",
+                            "TreeNodeRank": 12,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "CF42CB95-1A82-40CF-9F89-81E1103E501F",
+                            "TreeNodeCode": "HNJTJ",
+                            "TreeNodeParentGuid": "9057872B-A339-4D4C-9515-71838B7C0AE4",
+                            "TreeNodeName": "混凝剂投加",
+                            "TreeNodeRank": 13,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "D6B142C4-0FA0-437D-9D42-FE093A1E9FBE",
+                            "TreeNodeCode": "YCL",
+                            "TreeNodeParentGuid": "9057872B-A339-4D4C-9515-71838B7C0AE4",
+                            "TreeNodeName": "预处理",
+                            "TreeNodeRank": 5,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "ECD28B73-ABC9-4072-AA45-7C2765EEB1C0",
+                            "TreeNodeCode": "TJ",
+                            "TreeNodeParentGuid": "9057872B-A339-4D4C-9515-71838B7C0AE4",
+                            "TreeNodeName": "调节",
+                            "TreeNodeRank": 9,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "FFEFCA81-2088-4A64-A83F-6B48B82AC3A6",
+                            "TreeNodeCode": "JSDY",
+                            "TreeNodeParentGuid": "9057872B-A339-4D4C-9515-71838B7C0AE4",
+                            "TreeNodeName": "进水单元",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        }
+                    ]
+                },
+                {
+                    "TreeNodeGuid": "95998497-01AA-4AE4-B907-CA7A7C73739A",
+                    "TreeNodeCode": "XCSC",
+                    "TreeNodeParentGuid": "842768BA-19A0-4342-BC0D-72F5D9AC40FE",
+                    "TreeNodeName": "西村水厂",
+                    "TreeNodeRank": 9,
+                    "TreeNodeTypeCode": "SCXT",
+                    "TreeNodeTypeName": "水厂系统",
+                    "Children": [{
+                            "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+                            "TreeNodeCode": "KPI属性",
+                            "TreeNodeParentGuid": "95998497-01AA-4AE4-B907-CA7A7C73739A",
+                            "TreeNodeName": "KPI属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+                            "TreeNodeCode": "SJSX",
+                            "TreeNodeParentGuid": "95998497-01AA-4AE4-B907-CA7A7C73739A",
+                            "TreeNodeName": "数据属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+                            "TreeNodeCode": "JBSX",
+                            "TreeNodeParentGuid": "95998497-01AA-4AE4-B907-CA7A7C73739A",
+                            "TreeNodeName": "基本属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "60d25ac1-a01b-468d-b57f-036623b98b41",
+                            "TreeNodeCode": "Add",
+                            "TreeNodeParentGuid": "95998497-01AA-4AE4-B907-CA7A7C73739A",
+                            "TreeNodeName": "Add",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "4AA86887-AEE3-407D-9E5B-7C857A3E52DD",
+                            "TreeNodeCode": "XD",
+                            "TreeNodeParentGuid": "95998497-01AA-4AE4-B907-CA7A7C73739A",
+                            "TreeNodeName": "消毒",
+                            "TreeNodeRank": 3,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "6D9F7CCE-8F21-4F58-8ED5-88BB3BCB0060",
+                            "TreeNodeCode": "GL",
+                            "TreeNodeParentGuid": "95998497-01AA-4AE4-B907-CA7A7C73739A",
+                            "TreeNodeName": "过滤",
+                            "TreeNodeRank": 2,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "7046AFCD-5BAB-48E3-B8D3-22D54FAF54C9",
+                            "TreeNodeCode": "CD",
+                            "TreeNodeParentGuid": "95998497-01AA-4AE4-B907-CA7A7C73739A",
+                            "TreeNodeName": "沉淀",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "8D40A8B6-9611-4172-BDC0-7A8FE9152403",
+                            "TreeNodeCode": "EJBF",
+                            "TreeNodeParentGuid": "95998497-01AA-4AE4-B907-CA7A7C73739A",
+                            "TreeNodeName": "二级泵房",
+                            "TreeNodeRank": 4,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "9D41AE4E-0753-47CD-B4BD-955F4DAC4F42",
+                            "TreeNodeCode": "QS",
+                            "TreeNodeParentGuid": "95998497-01AA-4AE4-B907-CA7A7C73739A",
+                            "TreeNodeName": "取水",
+                            "TreeNodeRank": 5,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "E5926AE5-9F00-4EE8-8843-5D8DD1EAAB6A",
+                            "TreeNodeCode": "XNCGQ",
+                            "TreeNodeParentGuid": "95998497-01AA-4AE4-B907-CA7A7C73739A",
+                            "TreeNodeName": "虚拟传感器",
+                            "TreeNodeRank": 6,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        }
+                    ]
+                },
+                {
+                    "TreeNodeGuid": "AF2395F1-D36C-4C3D-85FA-D8722B2E7E90",
+                    "TreeNodeCode": "BBSC",
+                    "TreeNodeParentGuid": "842768BA-19A0-4342-BC0D-72F5D9AC40FE",
+                    "TreeNodeName": "北部水厂",
+                    "TreeNodeRank": 8,
+                    "TreeNodeTypeCode": "SCXT",
+                    "TreeNodeTypeName": "水厂系统",
+                    "Children": [{
+                            "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+                            "TreeNodeCode": "KPI属性",
+                            "TreeNodeParentGuid": "AF2395F1-D36C-4C3D-85FA-D8722B2E7E90",
+                            "TreeNodeName": "KPI属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+                            "TreeNodeCode": "SJSX",
+                            "TreeNodeParentGuid": "AF2395F1-D36C-4C3D-85FA-D8722B2E7E90",
+                            "TreeNodeName": "数据属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+                            "TreeNodeCode": "JBSX",
+                            "TreeNodeParentGuid": "AF2395F1-D36C-4C3D-85FA-D8722B2E7E90",
+                            "TreeNodeName": "基本属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "550814f7-fd13-4f35-a3fd-d453602379d5",
+                            "TreeNodeCode": "Add",
+                            "TreeNodeParentGuid": "AF2395F1-D36C-4C3D-85FA-D8722B2E7E90",
+                            "TreeNodeName": "Add",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "092724CF-DCBB-46D3-B472-E5544A8DA444",
+                            "TreeNodeCode": "NS",
+                            "TreeNodeParentGuid": "AF2395F1-D36C-4C3D-85FA-D8722B2E7E90",
+                            "TreeNodeName": "浓缩",
+                            "TreeNodeRank": 10,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "3881B026-13E3-469A-B3A9-2092DA4DB11E",
+                            "TreeNodeCode": "EJBF",
+                            "TreeNodeParentGuid": "AF2395F1-D36C-4C3D-85FA-D8722B2E7E90",
+                            "TreeNodeName": "二级泵房",
+                            "TreeNodeRank": 7,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "56766ADD-4EBF-4E52-8CC3-2FDCE516F50E",
+                            "TreeNodeCode": "CD",
+                            "TreeNodeParentGuid": "AF2395F1-D36C-4C3D-85FA-D8722B2E7E90",
+                            "TreeNodeName": "沉淀",
+                            "TreeNodeRank": 3,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "57B4BA63-4CB7-4D77-8C17-A2B5654150E0",
+                            "TreeNodeCode": "PD",
+                            "TreeNodeParentGuid": "AF2395F1-D36C-4C3D-85FA-D8722B2E7E90",
+                            "TreeNodeName": "配电",
+                            "TreeNodeRank": 12,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "5C36C945-5772-4D44-B10E-B02310B6F300",
+                            "TreeNodeCode": "TS",
+                            "TreeNodeParentGuid": "AF2395F1-D36C-4C3D-85FA-D8722B2E7E90",
+                            "TreeNodeName": "脱水",
+                            "TreeNodeRank": 9,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "6794F300-71AC-4C91-82EF-105C69F15D9F",
+                            "TreeNodeCode": "HNJTJ",
+                            "TreeNodeParentGuid": "AF2395F1-D36C-4C3D-85FA-D8722B2E7E90",
+                            "TreeNodeName": "混凝剂投加",
+                            "TreeNodeRank": 8,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "833D09A5-8A74-4DD1-8735-ABF8C44906FE",
+                            "TreeNodeCode": "PS",
+                            "TreeNodeParentGuid": "AF2395F1-D36C-4C3D-85FA-D8722B2E7E90",
+                            "TreeNodeName": "配水",
+                            "TreeNodeRank": 2,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "ADEAA5F4-A7E7-4CA4-AAEB-FA6E507F6F3D",
+                            "TreeNodeCode": "XNCGQ",
+                            "TreeNodeParentGuid": "AF2395F1-D36C-4C3D-85FA-D8722B2E7E90",
+                            "TreeNodeName": "虚拟传感器",
+                            "TreeNodeRank": 13,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "BE0933B9-E5FE-4D50-989C-7B29CF86F1E4",
+                            "TreeNodeCode": "QS",
+                            "TreeNodeParentGuid": "AF2395F1-D36C-4C3D-85FA-D8722B2E7E90",
+                            "TreeNodeName": "取水",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "CA687811-F549-4E89-955D-F84E5E1BE85A",
+                            "TreeNodeCode": "XD",
+                            "TreeNodeParentGuid": "AF2395F1-D36C-4C3D-85FA-D8722B2E7E90",
+                            "TreeNodeName": "消毒",
+                            "TreeNodeRank": 4,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "D2C2D459-F6CF-47B9-AE40-AFE72C88968F",
+                            "TreeNodeCode": "PH",
+                            "TreeNodeParentGuid": "AF2395F1-D36C-4C3D-85FA-D8722B2E7E90",
+                            "TreeNodeName": "平衡",
+                            "TreeNodeRank": 11,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "EFF68E24-CB6C-47C8-ABEE-FDEACF0F5302",
+                            "TreeNodeCode": "GL",
+                            "TreeNodeParentGuid": "AF2395F1-D36C-4C3D-85FA-D8722B2E7E90",
+                            "TreeNodeName": "过滤",
+                            "TreeNodeRank": 6,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "FD40D4B1-C82C-4664-B334-08FF40D838DE",
+                            "TreeNodeCode": "CLMGL",
+                            "TreeNodeParentGuid": "AF2395F1-D36C-4C3D-85FA-D8722B2E7E90",
+                            "TreeNodeName": "超滤膜过滤",
+                            "TreeNodeRank": 5,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        }
+                    ]
+                },
+                {
+                    "TreeNodeGuid": "ECCC96F1-283C-4996-AFA2-9B24A24FC83F",
+                    "TreeNodeCode": "SMSC",
+                    "TreeNodeParentGuid": "842768BA-19A0-4342-BC0D-72F5D9AC40FE",
+                    "TreeNodeName": "石门水厂",
+                    "TreeNodeRank": 4,
+                    "TreeNodeTypeCode": "SCXT",
+                    "TreeNodeTypeName": "水厂系统",
+                    "Children": [{
+                            "TreeNodeGuid": "7201FFA1-91EC-4296-8642-0711C70CCF05",
+                            "TreeNodeCode": "KPI属性",
+                            "TreeNodeParentGuid": "ECCC96F1-283C-4996-AFA2-9B24A24FC83F",
+                            "TreeNodeName": "KPI属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "B9BB37B2-7B6A-4944-AA78-6E0DDF8B0F8F",
+                            "TreeNodeCode": "SJSX",
+                            "TreeNodeParentGuid": "ECCC96F1-283C-4996-AFA2-9B24A24FC83F",
+                            "TreeNodeName": "数据属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "FB48735D-1AD3-4F9E-B6C2-5F1828DFCD3E",
+                            "TreeNodeCode": "JBSX",
+                            "TreeNodeParentGuid": "ECCC96F1-283C-4996-AFA2-9B24A24FC83F",
+                            "TreeNodeName": "基本属性",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "a9f8571e-c385-4ad3-b052-830c835c8ec3",
+                            "TreeNodeCode": "Add",
+                            "TreeNodeParentGuid": "ECCC96F1-283C-4996-AFA2-9B24A24FC83F",
+                            "TreeNodeName": "Add",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "",
+                            "TreeNodeTypeName": "",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "6DFC9ECA-1938-4EEB-88E3-0DD302285613",
+                            "TreeNodeCode": "HN",
+                            "TreeNodeParentGuid": "ECCC96F1-283C-4996-AFA2-9B24A24FC83F",
+                            "TreeNodeName": "混凝",
+                            "TreeNodeRank": 5,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "87E0791C-133D-40FC-8D8F-62B7B4D84E18",
+                            "TreeNodeCode": "HSLY",
+                            "TreeNodeParentGuid": "ECCC96F1-283C-4996-AFA2-9B24A24FC83F",
+                            "TreeNodeName": "回收利用",
+                            "TreeNodeRank": 2,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "968F419E-A686-4327-BA8B-BC87294A756A",
+                            "TreeNodeCode": "CD",
+                            "TreeNodeParentGuid": "ECCC96F1-283C-4996-AFA2-9B24A24FC83F",
+                            "TreeNodeName": "沉淀",
+                            "TreeNodeRank": 3,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "A86671E6-D2E6-4510-BFC3-3B4E774B5E98",
+                            "TreeNodeCode": "HNJTJ",
+                            "TreeNodeParentGuid": "ECCC96F1-283C-4996-AFA2-9B24A24FC83F",
+                            "TreeNodeName": "混凝剂投加",
+                            "TreeNodeRank": 7,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "AED8C0A4-F7EB-4C2C-A0CE-95FEACBA5BA8",
+                            "TreeNodeCode": "PD",
+                            "TreeNodeParentGuid": "ECCC96F1-283C-4996-AFA2-9B24A24FC83F",
+                            "TreeNodeName": "配电",
+                            "TreeNodeRank": 9,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "BE196047-1A88-4CEB-BC6F-C85D9ACA2CCB",
+                            "TreeNodeCode": "EJBF",
+                            "TreeNodeParentGuid": "ECCC96F1-283C-4996-AFA2-9B24A24FC83F",
+                            "TreeNodeName": "二级泵房",
+                            "TreeNodeRank": 6,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "CDBC22C1-6735-48D1-8906-D581E5647346",
+                            "TreeNodeCode": "XD",
+                            "TreeNodeParentGuid": "ECCC96F1-283C-4996-AFA2-9B24A24FC83F",
+                            "TreeNodeName": "消毒",
+                            "TreeNodeRank": 8,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "CF4EDE9A-F229-45C9-A5CE-56B37F54EF2B",
+                            "TreeNodeCode": "QS",
+                            "TreeNodeParentGuid": "ECCC96F1-283C-4996-AFA2-9B24A24FC83F",
+                            "TreeNodeName": "取水",
+                            "TreeNodeRank": 1,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "F37517D5-BBE5-422C-ABF9-C948AC987E36",
+                            "TreeNodeCode": "XNCGQ",
+                            "TreeNodeParentGuid": "ECCC96F1-283C-4996-AFA2-9B24A24FC83F",
+                            "TreeNodeName": "虚拟传感器",
+                            "TreeNodeRank": 10,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        },
+                        {
+                            "TreeNodeGuid": "F830A91C-BF91-454F-8D75-0FEED59F3458",
+                            "TreeNodeCode": "GL",
+                            "TreeNodeParentGuid": "ECCC96F1-283C-4996-AFA2-9B24A24FC83F",
+                            "TreeNodeName": "过滤",
+                            "TreeNodeRank": 4,
+                            "TreeNodeTypeCode": "SCXT",
+                            "TreeNodeTypeName": "水厂系统",
+                            "Children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

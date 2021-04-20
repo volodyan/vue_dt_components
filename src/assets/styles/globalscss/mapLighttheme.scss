@@ -1,0 +1,197 @@
+.iconfontZt {
+    font-family: "iconfont";
+    font-size: 23px;
+    font-style: normal;
+    margin: 3px;
+    cursor: default;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+.iconfontZt-min {
+    font-family: "iconfont";
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 12px;
+}
+
+.iconfontZt-min1 {
+    font-family: "iconfont";
+    font-style: normal;
+    margin-right: 3px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 12px;
+}
+.buttonIcon-circle{
+    width: 32px;
+    height: 32px;
+    background-color: #1b272f;
+    color: #fff;
+    font-size: 12px;
+    border: 0;
+    padding: 0!important;
+}
+.el-checkbox__label{
+    padding-left: 6px !important;
+    font-size: 12px !important;
+    color:black !important;
+}
+.el-checkbox__inner:after{
+    border: 2px solid #506470;
+    border-left: 0;
+    border-top: 0;
+}
+
+.inputStyle {
+    /deep/ .el-input__inner{
+    background-color:#fff;
+    height:28px;
+    border-radius: 4px;
+  }
+  .button-icon-mini{
+    padding: 0 13px!important;
+    height: 26px;
+    color: #fff;
+    background-color: #2e9bde;
+    transition-duration: .4s;
+    border: 0!important;
+  }
+}
+.esri-view .esri-view-surface--touch-none {
+  outline: none;
+}
+.esri-popup__header{
+    color: white;
+    background-color: #1B272F;
+    border-radius: 0px;
+    border-bottom: 1px solid #1B272f;
+  }
+  .esri-popup__header-title,
+  .esri-popup__header-buttons{
+    padding:0 !important;
+  }
+  .esri-popup__header-title:hover {
+    background-color: transparent !important;
+  }
+  .esri-popup__button:hover{
+    color: white !important;
+    background-color: transparent !important;
+  }
+  .esri-popup__button{
+    margin:auto !important;
+    outline: none;
+  }
+  .esri-popup__content{
+    margin: 5px !important;
+  }
+  .esri-popup--aligned-bottom-right .esri-popup__pointer-direction,
+  .esri-popup--aligned-bottom-left .esri-popup__pointer-direction,
+  .esri-popup--aligned-bottom-center .esri-popup__pointer-direction
+  {
+    background-color: #3A414E;
+  }
+  .esri-view-width-less-than-medium .esri-popup__main-container,
+  .esri-view-width-large .esri-popup__main-container,
+  .esri-view-width-xlarge .esri-popup__main-container {
+    width: 310px !important;
+    max-height: 316px !important;
+  }
+  .esri-ui .esri-popup{
+    border-radius: 5px;
+  }
+
+  /* 设置滚动条的样式 */
+::-webkit-scrollbar {
+    width: 5px;
+    height: 0px;
+}
+/* 滚动槽 */
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background: #ffffff;
+    -webkit-box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+}
+/* 滚动条滑块 */
+::-webkit-scrollbar-thumb {
+    border-radius: 6px;
+    background: #ededed;
+    -webkit-box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+* {
+    --statusBar: #fff;
+    --statusBar-border: #cfd6db;
+    --right-headtitle-bg: #ebeeef;
+    --right-headtitle-bg1: #b6c2ca;
+    --right-headtitle-secondTitle: #1c2830;
+    --right--headtitle-font-color: #506470;
+    --right-content-bg: #fff;
+    --right-divider: #fff;
+    --right-divider1: #c8ced3;
+    --right-font-color: #1c2730;
+    --right-adjustable-img: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAABjCAYAAABNC/oRAAACDklEQVRYR+2Yv0scQRTHv889E/yxKgGLgDGiWMYmwaQSFGxMYQghJgEFm6CljW3+C0shhKAQbCRVICGkTKX/gXKEy+5m52b8UVjsjewce3H17uZNc4Xs1p/3ePvem+H7HQLzq1ROh4nJohJVZ9lwVFUbbDgUcocNB0IdseA/Qox2wztmwWH1ZBVab/PgWH4B0SsrXC6Xe+72DQQAfCscytMl1Gq76TzssDj5AehZK/xXnD3qQnKYJW2bORTqK4Dn2Uq0hIOqWiGNj1d3pykcSflY1+gXgN62cHR+fh8XyW8NPXJ9I3OZ057e6fV/EtF0s9XNwYFQnwl412rHG3DwT65TF221OwwGDpWaREKHgO6xwkEsvxPRnO2IUSzP5pNa8s0GmnGHsdwD0UsWHAkVa+AeCw6F0hywXkYB/+9V0Y3c6S5240o7OrQbn/b28XZxAaVSqekZzpXxfvMDxh8+wNryEoYG/BsBN+CUGPR9rC2/xsTYaC6gKZwSJc/DmxcLmHn6pBHQEvY8z9Q/88wCD/r9pm5rGewfdGqd7YLs0LiLMopLpvOXzK3cOjeN5KK+nHRd2lu2YnTWoia7kOsEhsrNxszWz2mAkzJPA9iaPyuH7SYa9XN9ShbAdkD1doopgnfA8lZmYFzXZmAXP+jkNE12roc1sIs7dvLd9TYyHX29hQ5vBU6vEE7vG+nLySVERq5RHuQstAAAAABJRU5ErkJggg==);
+    --right-adjustable-img-hover: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAADGCAYAAADWinAUAAAEJ0lEQVR4Xu2cO2hUQRSG/9ldBImvxkYMiU8EKx+QIBhBbIyP2Bnx1RlRrBTBQgQLG63EQqx8tSr4QFsFDUSx0UpFC0V37+7OvXO3dXNk1t01bvYx9+YcBJlbJst3D/+cc2Z2Of8oCDw/KpWlSoCLYljZJgIuaHNCCBzfEAEHZfOaHUxEuWIYV9jBxSjaRNPqDTs40OYkgGvs4II2dxVwkB0caPMFwCAruFwuL6+q3FdbdKzggjaHFHCHHRyUzU0oHGUFE5EqhvE3AMtYwUEYbgBl3jaaGpvGxdCcJ8JFdnCgjY12Ays4MGYNqvgws7ezSNEqA8viEVGmFMafCRhgjTjQZhTAk9Ytbs5SBNo8BLCHFfw9DAdylPkEIMcKLuj4ugJNtNvpU0thU4yqeK+AebxgbR4D2NXpXJIq4kJoDivC7W6HncTgUileN52hNwD62MBa68U/VXYKhLW9jmbOERNRthTFz4iwoxc0UUkH2lwFcMoF6gwu6miCoK67Qp3ApSjaXp1WTzvla6p0C4xZjSpeAViaJNquEdsMqCL7koD1SaEdwfUd13at3WmgHcGFcnxGKbqcFtoWnC+ZIZXBi6SL1bVt5vP5vsy8+e8ArJhLtLMiLuroMkGdmSv0L3AxijbStJoCkGUD2ywohfEkAUMc0GbEhTDep4gecEGb4ECbSQDDrODWUyIXXAU6vgTQOS5gg6MCbV4C2CIBrgBYIAEmbmgtKwJtPLimrJeimWBeCi/F7G7js8Jnhc+KLruwLxBfIL5AfIG4HNR9r/C94r/uFXfvP8L43p3I5Wb9/O5SH52/jh07ewGrBvoxcXg/lixa6ASb+aGOlWfB9rFQC7cvSfL0BFuYlWN8bCdGhjY7s53ADZoF2xe46J4IbF/gqntisKvuqcAuuqcHZ7MYHxvFyHD7BU0FXrxoIY73SMHE4JUD/TVor6JJBN46tAkHxkb50i3XQ892VdMzYhc9E4Nd9UwEvnPvobOeicDO3abDB/2BxR9Y/usDiy+QuSrgC8QXiP/271JFfjP1vcL3Ct8rfK9wUcD3Ct8r/lWvEBvnkRpAkhqZarECJKrbbotn/ycylmbBYoN0YqN/NmqRYcXGGhTC6IoidZpjAf+amBYbCLWR5stmWCk8Zx1hbUoiMXRr4WJjwhYuMtjckERkFLsBFxkeb8BFxt2bskgM6NczRcZS0MiUn5R9DYU1vcre2QTRXEwJ28afZmWOKMKtblEnjnjGYvJbY2rbmZSZp7alSdiPLPhHGA5mKfOR3TBV3+H5LV51sIwpTcxGV9vhW/yP9m+p83hmcYhZFeta85sr28nBIkUtYikDq5jltq6z7XhH2LKi2U6lbM1iRuy6HPzW8d+tVM7sLmPPF7tQQOwKhNoCSlzaUN8LZa6ZELsYQ+wqD3v5yC/5DYPwQBDqgAAAAABJRU5ErkJggg==);
+    --right-adjustable-img1: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAABjCAYAAABNC/oRAAACEUlEQVRYR+2YP0scQRjGn1fRoOFSCCkCYpdSm4D9BVIFLFQIBBQsLfMRbP0AQVME5JC7iwgRxEIwiFUSLOIHUDRHOHc3Ozdzq4VweyOzx168cHvzTmWzW//m3XffP+zzDIH51OvRc2KyqAeNIhsOGuoDG/aFLLNhT6hLFvxHiKkRDF+xYL/RXIHWn3lwKHdAtGiFa7Xa2JOnzzwABSvsy+gd2u2K6YcdFs1vgC5a4WtxMz2E+CwNOjCyL9Q+gLfpSGTCXkMtk8bWw9npCwdSvtJtOgEwPhAObm9f4C7+qaEn/5/InsimpqPjhWMimu03uj2wJ9Q2Ae+zZrwLe3/lKg3Rx0HLkMC+Ui8R0xmgx6ywF8ojInptWzEK5c2buB0f2sCk3X4od0E0z4IDoUINTLBgXyjNATtp5PC/WuXV6NnufDYelOMRZqPVaqG8d4ClhbluIn3TkM0Im6Uqzq9q+LS+lg0bYKNUhWpGCZQJn/w4ReXrAVpx3I2WDX8/RWWPCZtw55e/sVH6AhVZ0kjfbT7Q5H1h+8D0ALt0mf+UfPgfd/j7qoK8KXlTMjaW3DSSi/py0nUmPbZidNaiSXQhVwkMlZtWiq2fzQEnZW4OsDV/mg7bTXTz5/qU9ADbAXXKKWYIw79Y3ippGNe1JbCLH3Rymkl0rodNYBd37OS7O2VkOvpOCR3uCpxuIZzuN8zNyT2K7thRZ5FIowAAAABJRU5ErkJggg==);
+    --right-adjustable-img1-hover: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAADGCAYAAADWinAUAAAEK0lEQVR4Xu2cPWhTURTH/zcpBang5CJCK6gITurQ4iKIkx8gOlp1FBQnXRwcdHCwTuJQO6kVrJNU1Lpa8aP1Y9HJT6Rik5fkvndf1qRH7jMvpmk+Xl7PmXozJo9fDv/7P+fehHOugsBrsVzeqAS4KPjlfSLgvDZnhcDhhAjYK5l37GAi6iv4YZkdXAiCPbSk3rODPW3OAbjFDs5rc18BJ9jBnjY/AQyxgkul0uaq6luwSccKzmszqoBJdrBXMnegcJoVTESq4Ie/AWxiBXu+vwuU+RgXNTaNC765TISr7GBPGxvtLlawZ8w2VPGlsbazSNEsA8viEVGm6Ic/CBhkjdjT5iCAp81b3Kql8LR5DOAIK/iP7w/2UeYbgD5WcF6H4wp0ptVOn1oKazGq4rMC+nnB2jwBcKjduSRVxHnfnFSEe50OOz2Di8Vwx1KG3gMYYANrrTdUVHYehO3djmaJIyaibDEInxPhQDdoTyntaXMTwPkk0MTggg7OENR4UmgicDEI9leX1Ew7v6aym2fMVlTxGsDGXqLtGLF1QBXZVwTs7BXaFlzbcW3VOpwG2hacL4UXlaKxtNCW4FzRDKsMZntdrI5lM5fLDWT6130CsGU10a6IuKCDMYK6uFroMnAhCHbTkpoHkGUDWxcU/fANAcMc0HrEeT88qogecUHrYE+bNwBGWMHNp0QuuPJ0eA2gS1zAmKM8bV4B2CsBLgNYLwEmbmjkCk8bB46UdVLUDeakcFKsrDbOFc4VzhUddmGXIC5BXIK4BElyUHe1wtWKNV0rKtUqpqafYfTYiv/90/8cM2EZ45MP8f3XAiauX2mZiD1n3o9fCxE0CO1ve/CAX859wIPpZ6hUKvUoVxVxrOfsW/sP+vJXanCjnq3ETAVu1pMF3EpPFrDVc+rxzLKFYgFbiPXp7QZrsYEtyPrVwu2XsIItzPp2anoGs3OMdmuM0oLtF7AlSCO8WfdUPm63zTfqzgpu1H30OGPZdAeWJAq4A8uaPrB0s0jP54puwPhzB3aZ5zKvQ7a4BHEJ4hLEJUiSDdXVClcrXK1wtSJprRBr55FqQJJqmWoaBUiiX5JnoqZbkbY0CxZrpBNr/bNRizQrxouR94MbitSFJIvT7ZllHdNiDaE2ilzJjCiFF6wtrHVJJJpuLVysTdjCRRqbY0lEWrFjuEjzeAwXaXevyyLRoF9zisxIQeyUCmXfQWFbTynd7WH7ucjYxv9iZU4pwt1OgSQe22iGeBKjMdF2JjXME21pEuNHFrzo+0NZynxlH5iq7fD8I141sMxQmtgYXbTDN80/2vdS+7jR12KjijWt+YcrW8nBIkUUsdQAq9jIbU1nW/FOsbmiXk6lxprFBrFrcvCPjv8rpXLD7jLj+WIXCohdgRAtoMSlDbW9UOaaCbGLMcSu8rCXj/wFyZ/d8Pmp6K8AAAAASUVORK5CYII=);
+    --right-detailed-divider: #cfd6db;
+    --link-color: #2a3a48;
+    --mian-bg: #fff;
+    --mian-font-color: #506470;
+    --home-mian-bg: #eff0f1;
+    --home-mian-content-bg: #fff;
+    --home-mian-content-border-color: #ebeef5;
+    --home-mian-headtitle-bg: #1c2730;
+    --home-mian-headtitle-bg-bottom: #1c2730;
+    --home-mian-content-bg1: #0d161d;
+    --home-mian-headtitle-font-color: #636b7a;
+    --home-border-divider: #cfd6db;
+    --home-border-divider1: #cfd6db;
+    --home-border-color: #d5d8ea;
+    --home-font-color: #545c6b;
+    --EventWarning-rili-bg: #ededed;
+    --EventWarning-rili-font-color: #b6c2c9;
+    --EventWarning-rili-select-font-color: #506470;
+    --EventWarning-select-bg: #ebf4fd;
+    --EventWarning-font-color: #506470;
+    --EventWarning-font-color1: #717f8d;
+    --EventWarning-font-color2: #b6c2c9;
+    --popup-mian: #eaeef1;
+    --popup-font-value: #1b272f;
+    --popup-head-bg: #fff;
+    --popup-head-font: #506470;
+    --popup-border-divider: solid 1px #cfd5db;
+    --dialogPopup-tab-bg: #b6c2c9;
+    --dialogPopup-tab-border: #cfd6db;
+    --sliderFL-play: #506470;
+    --sliderFL-play-border: solid 1px #e0e1e1;
+    --sliderFL-border: solid 1px #e0e1e1;
+    --sliderFL-select-border: solid 1px #717f8d;
+    --sliderFL-valueCell-color: #506470;
+    --sliderFL-valueCellColor-color: #a5acb0;
+    --legend-headtitle-bg: #1b272f;
+    --legend-content-bg: #fff;
+    --legend-border-solid: solid 1px #eaeef1;
+    --legend-layer-border-solid: 1px solid #b6c2c9;
+    --timeRowDiv-title-bg: #dae3e8;
+    --timeRowDiv-title-color: #506470;
+    --timeRowDiv-content-bg: #fff;
+    --timeRowDiv-bnt-bg: #dce0e4;
+    --select-bg: #e8e8eb;
+    --select-border: 1px solid #c8ced3;
+    --select-content-bg: #fff;
+    --select-content-hover: #f0f0f1;
+    --headtitle-bg: #b5c1c9;
+    --content-bg: #f0f0f1;
+    --headtitle-bg1: #1b272f;
+    --content-bg1: #3a414e;
+    --font-color: #506470;
+    --tl-font-color: #000;
+    --tab-divider: #eaeef1;
+    --border-divider: solid 1px #cfd5db;
+    --border-solid: solid 1px #e6e6e6;
+    --box-shadow: 1px 1px 10px 0px rgba(28,47,65,.5);
+    --mian-menu-hover: #a5b2b9;
+    --map-bg: #eee;
+    --cursor: pointer;
+}

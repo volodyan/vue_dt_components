@@ -1,0 +1,67 @@
+                    $border--color:#C8CED3;
+                    $active--color:#2E9BDE;
+                    .fontColorTitle {
+                        color: #506470;
+                    }
+                    
+                    .fontColorText {
+                        color: #1C2730;
+                    }
+                    
+                    .fontColorTitle_acitive {
+                        color: #2E9BDE
+                    }
+                    
+                    .nav_Bg_Color {
+                        background: #B6C2C9;
+                    }
+                    
+                    .lineboxStyle {
+                        background: #D5D8EA;
+                    }
+                    
+                    .Border_all {
+                        border: 1px solid #cfd6db;
+                    }
+                    
+                    .Border_all_box-sizing {
+                        border: 1px solid #cfd6db;
+                        box-sizing: border-box;
+                    }
+                    
+                    .Border_bottom {
+                        border-bottom: 1px solid #cfd6db;
+                        box-sizing: border-box;
+                    }
+                    
+                    .Border_bottom4px {
+                        border-bottom: 4px solid #cfd6db;
+                        box-sizing: border-box;
+                    }
+                    
+                    .Border_top {
+                        border-top: 1px solid #cfd6db;
+                        box-sizing: border-box;
+                    }
+                    
+                    .Border_left {
+                        border-left: 1px solid #cfd6db;
+                        box-sizing: border-box;
+                    }
+                    
+                    .Border_right {
+                        border-right: 1px solid #cfd6db;
+                        box-sizing: border-box;
+                    }
+                    
+                    //滚动条的宽度
+                     ::-webkit-scrollbar {
+                        width: 8px;
+                        height: 10px;
+                    }
+                    
+                    //滚动条的滑块
+                     ::-webkit-scrollbar-thumb {
+                        background-color: #CFD6DB;
+                        border-radius: 3px;
+                    }
